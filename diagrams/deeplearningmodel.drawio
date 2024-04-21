@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T07:40:30.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="MAxFyM_uoTR9UYRWjdCv" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T07:42:20.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="rKwym5kxyf0hu8baGmti" version="24.2.5" type="github">
   <diagram name="第 1 页" id="dx8XZw_HSDB5wvlh0Bxz">
     <mxGraphModel dx="574" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,11 +22,13 @@
         <mxCell id="t5qZ4p5_kvBZitsTtcTl-4" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="550" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t5qZ4p5_kvBZitsTtcTl-9" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=classic;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" source="t5qZ4p5_kvBZitsTtcTl-6" target="t5qZ4p5_kvBZitsTtcTl-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="t5qZ4p5_kvBZitsTtcTl-9" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=classic;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" target="t5qZ4p5_kvBZitsTtcTl-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="560" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="t5qZ4p5_kvBZitsTtcTl-6" value="Positional&lt;div&gt;Encoding&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="540" width="100" height="40" as="geometry" />
+        <mxCell id="t5qZ4p5_kvBZitsTtcTl-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Positional&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Encoding&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
